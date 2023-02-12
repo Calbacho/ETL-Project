@@ -1,7 +1,7 @@
-# W3 Project - Building mySQL Data-base
+# W4 Project - ETL Project
 ETL para proyecto de predicción de accidentes de tráfico en Madrid
 
-![portada](https://github.com/Calbacho/w3-database-project/blob/main/videoclip2.jpg)
+![portada](https://github.com/Calbacho/ETL-Project/blob/main/img/trafico.jpg)
 ## :chains: Índice
 1.[:writing_hand: Descripción](#descripción)\
 2.[:nerd_face: Análisis general y limpieza](#análisis)\
