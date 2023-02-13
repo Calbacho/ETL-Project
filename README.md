@@ -213,7 +213,7 @@ for i in vaex_files[0::8][1:-1]:
 </details>
 
 ```
-1159303428 rows × 10 columns
+1159303428 rows × 6 columns
 ```
 
 <a name="carga"/>
