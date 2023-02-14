@@ -215,6 +215,11 @@ for i in vaex_files[0::8][1:-1]:
 
 </details>
 
+
+![trafic](https://github.com/Calbacho/ETL-Project/blob/main/img/trafic.png)
+
+
+
 ```
 1159303428 rows × 6 columns
 ```
