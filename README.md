@@ -22,7 +22,7 @@ Fase **ETL** para proyecto de predicción de accidentes de tráfico en Madrid se
 - Puntos de medida
 - Histórico de tráfico
 
-**Limpieza:**
+**Transformación:**
 - Nulos
 - Duplicados
 - Consistencia
@@ -119,6 +119,9 @@ geo_trackers = pd.read_csv('pmed_ubicacion_12-2022.csv', sep = ';', on_bad_lines
 ## 🚘 Histórico de tráfico
 
 **Web Scrapping** para navegar por url, descargar 96 zips y extraerlos a csv.
+
+![gif](https://github.com/Calbacho/ETL-Project/blob/main/img/ezgif.com-video-to-gif.gif)
+
 
 **Vaex** para leer cada CSV, concatenarlo por año, limpiar cada año y generar tabla histórica.
 
