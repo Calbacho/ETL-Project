@@ -26,7 +26,7 @@ Fase **ETL** para proyecto de predicción de accidentes de tráfico en Madrid se
 - Nulos
 - Duplicados
 - Consistencia
-- Fromato
+- Formato
 - Nuevas columnas
 
 **Carga:**
